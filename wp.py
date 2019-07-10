@@ -137,6 +137,7 @@ class mulai(object):
         colors = [36, 32, 34, 35, 31, 37]
         os.system("figlet wp-brute | lolcat")
         x = """
+        r00t@star
        Sunda Cyber Army           github.com/bintangAlif5
 
 
